@@ -1,0 +1,11 @@
+{
+  "name": "online_simulator",
+  "version": "1.0.0",
+  "description": "It runs the ngspice online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fahim",
+  "license": "ISC"
+}
